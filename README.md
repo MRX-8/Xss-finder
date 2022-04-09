@@ -5,7 +5,7 @@
 
 
 ```bash
-git clone https://github.com/capture0x/XSS-FINDER/
+git clone https://github.com/MRX-8/Xss-finder
 
 cd XSS-FINDER
 
