@@ -15,7 +15,6 @@ pip3 install -r requirements.txt
 
 chmod -R 755 xss.py
 ```
-
 ```
 python3 xss.py
 
