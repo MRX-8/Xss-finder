@@ -1,5 +1,5 @@
 ```
-![Visitor Count](https : //profile-counter.glitch.me/{MRX-8}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{MRX-8}/count.svg)
 ```
 # Xss-Finder
 
